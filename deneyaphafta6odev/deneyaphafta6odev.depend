@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624135939 source:c:\users\user\documents\github\deneyaphafta6\deneyaphafta6odev\tasarlayici.cpp
+	<iostream>
+
+1624135526 source:c:\users\user\documents\github\deneyaphafta6\deneyaphafta6odev\kodlayici.cpp
+	<iostream>
+
+1624139872 source:c:\users\user\documents\github\deneyaphafta6\deneyaphafta6odev\analizci.cpp
+	<iostream>
+	<ctime>
+
+1624139898 source:c:\users\user\documents\github\deneyaphafta6\deneyaphafta6odev\20kisisinif.cpp
+	<iostream>
+	<string>
+
